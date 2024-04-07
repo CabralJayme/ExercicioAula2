@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarefa2Aula2/1.0.0": {
+        "runtime": {
+          "Tarefa2Aula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa2Aula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

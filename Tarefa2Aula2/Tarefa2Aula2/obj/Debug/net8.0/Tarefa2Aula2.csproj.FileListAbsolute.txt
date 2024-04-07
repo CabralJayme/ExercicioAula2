@@ -1,0 +1,14 @@
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\bin\Debug\net8.0\Tarefa2Aula2.exe
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\bin\Debug\net8.0\Tarefa2Aula2.deps.json
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\bin\Debug\net8.0\Tarefa2Aula2.runtimeconfig.json
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\bin\Debug\net8.0\Tarefa2Aula2.dll
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\bin\Debug\net8.0\Tarefa2Aula2.pdb
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.AssemblyInfoInputs.cache
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.AssemblyInfo.cs
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.csproj.CoreCompileInputs.cache
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.dll
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\refint\Tarefa2Aula2.dll
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.pdb
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\Tarefa2Aula2.genruntimeconfig.cache
+D:\TEMP\Projetos\COTI FULLSTACK\Tarefa2Aula2\Tarefa2Aula2\obj\Debug\net8.0\ref\Tarefa2Aula2.dll
